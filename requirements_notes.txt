@@ -1,0 +1,9 @@
+Expected in RoboVerse VM:
+- python3
+- mavsdk
+- numpy
+- opencv-python / cv2
+- gz.transport13 and gz.msgs10 Python bindings
+
+Optional:
+- ultralytics, only needed if using YOLO_MODEL_PATH
